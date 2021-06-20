@@ -18,7 +18,7 @@ Built using:
 -Checkout using Card  
 -Then view your Orders  
 
-Check out my hosted site: https://amazon-clone-virid-beta.vercel.app/
+Check out my hosted site: https://amazon-clone-coral-pi.vercel.app
   
 **Some files has been modifeied for security reasons  
 you may refer: https://youtu.be/oq0B7XUNbtk for full tutorial**  
