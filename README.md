@@ -3,7 +3,7 @@ This is a Fullstack project: Amazon Clone with the following features:
 1.Sign Up - Google Authentication  
 2.Viewing Products - FakeStore API  
 3.Database Managment - Firebase  
-4.Payment Service - Stripe API
+4.Payment Service - Stripe API  
 5.Hosting Service - Vercel  
 
 Built using:  
