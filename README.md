@@ -20,7 +20,7 @@ Built using:
 
 Check out my hosted site: https://amazon-clone-coral-pi.vercel.app
   
-**Some files has been modified for security reasons 
+**Some files has been modified for security reasons   
 you may refer: https://youtu.be/oq0B7XUNbtk for full tutorial**  
 
 **This build was made by referring to :  
