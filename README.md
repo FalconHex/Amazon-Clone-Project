@@ -1,4 +1,11 @@
 # This is a Fullstack project: Amazon Clone  
+
+
+
+https://user-images.githubusercontent.com/68680026/142034291-1cb7fef7-57fc-4d06-a0db-74e232e47757.mp4
+
+
+
 ## Features:
 1.Sign Up - Google Authentication  
 2.Viewing Products - FakeStore API  
